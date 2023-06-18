@@ -1,5 +1,5 @@
 {
-  "hash": "c6510434b1764ee1d3d3d936924c5ed1",
+  "hash": "9f29da7722ef1ed58f0eab6435a6e706",
   "result": {
     "markdown": "---\ntitle: \"template-quarto-website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nI added some text.\n",
     "supporting": [],
